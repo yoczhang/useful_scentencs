@@ -4,5 +4,6 @@
 
    $$[u_{\mathcal{K}}]_F= u_{K_1}|_F - u_{K_2}|_F$$ where $$K_1$$, $$K_2$$ are the two mesh cells sharing $$F$$.
 
+2. 
 
 
